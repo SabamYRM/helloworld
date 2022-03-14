@@ -1,5 +1,4 @@
 pertama kali belajar github
 membuat file di github
 
-text lanjutan menggunakan edit
-text sudah diedit
+manghapus text mengganti text baru
